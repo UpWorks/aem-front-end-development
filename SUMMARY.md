@@ -4,7 +4,6 @@ This is the summary of my book.
 
 * [Templates](templates/README.md)
     * [The Parsys](templates/parsys.md)
-    * [Design](templates/design.md)
     * [Structure](templates/structure.md)
 * [Building Components](components/README.md)
     * [Who Are Your Users](components/authoring-considerations.md)
