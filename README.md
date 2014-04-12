@@ -1,4 +1,4 @@
-aem-front-end-development
-=========================
+Adobe Experience Manager Front End Development
+==============================================
 
-An introduction to Adobe Experience Manager front end development
+An introduction to front end development basics and workflows.
