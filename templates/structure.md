@@ -2,7 +2,7 @@ Template Structures
 ===================
 
 
-A sample full width template:
+Lets take a quick look at the maincontent.jsp under the `pages/testingtemplate` path:
 ````
 <%@include file="/apps/af-foundation/components/shared/global.jsp"%>
 <c:choose>
